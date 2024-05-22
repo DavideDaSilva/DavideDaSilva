@@ -26,7 +26,7 @@
 
 <!-- Linguagens mais usadas e Status de Github -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideDaSilva&layout=compact) ![Davide's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavideDaSilva&show_icons=true&theme=radical) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideDaSilva&layout=compact) ![Davide's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavideDaSilva&show_icons=true&theme=radical))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideDaSilva&layout=compact) ![Davide's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavideDaSilva&show_icons=true&theme=radical)
 
 
 <!-- [![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]() -->
