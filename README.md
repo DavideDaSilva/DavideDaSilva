@@ -6,7 +6,7 @@
 - 🌱 I’m currently coding in JavaScript, React.js, Typescript, python and Node.js
 
 - 💬 Ask me about Foundation Models, Generative Models, Machine Learning...
-- Passionate about Dependable Computing, Neuro-Symbolic Reasoning, Machine Learning, and Computer Vision
+- ❤ Passionate about Dependable Computing, Neuro-Symbolic Reasoning, Machine Learning, and Computer Vision
 <br />
 
 ### My old github account:
