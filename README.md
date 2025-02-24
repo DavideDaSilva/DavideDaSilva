@@ -18,7 +18,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-da-silva-softwaredeveloper-datascientist/)
 
 ### My website:
-[![Website](https://davidedasilva.github.io/davidesilva/)] (https://davidedasilva.github.io/davidesilva/)
+[![Website](https://img.shields.io/website)] (https://davidedasilva.github.io/davidesilva/)
+
 
 ### Languages and Tools:
 
