@@ -19,7 +19,8 @@
 
 ### My website:
 
-[![Website]([https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://img.shields.io/website)] (https://davidedasilva.github.io/davidesilva/)
+[![Website](https://img.shields.io/website)] (https://davidedasilva.github.io/davidesilva/)
+
 
 
 ### Languages and Tools:
