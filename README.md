@@ -21,7 +21,7 @@
 
 [![Website](https://img.shields.io/website)] (https://davidedasilva.github.io/davidesilva/)
 
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Excel](https://img.shields.io/github/issues-search)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 
 
