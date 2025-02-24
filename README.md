@@ -21,8 +21,6 @@
 
 [![Website](https://img.shields.io/github/issues-search)](https://davidedasilva.github.io/davidesilva/)
 
-[![Website](https://img.shields.io/github/issues-search)](https://img.shields.io/github/pipenv/locked/python-version/:user/:repo)
-
 [![Website](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 
