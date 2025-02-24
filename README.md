@@ -19,7 +19,7 @@
 
 ### My website:
 
-[Website]([URL](https://davidedasilva.github.io/davidesilva/))
+[Website](https://davidedasilva.github.io/davidesilva/)
 
 [![Website](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
