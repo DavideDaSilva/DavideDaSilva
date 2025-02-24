@@ -23,7 +23,7 @@
 
 [![Website](https://davidedasilva.github.io/davidesilva/)](https://img.shields.io/github/pipenv/locked/python-version/:user/:repo)
 
-[![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Website](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 
 
