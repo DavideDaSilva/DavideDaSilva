@@ -1,4 +1,4 @@
-## Hello😊! I am Davide da Silva 🖐🏼
+## Hello😊! I am Davide da Silva  🖐🏼
 
 <!-- I am engaged in research within the Computational Intelligence field, while also being a web developer and having a Data Scientist. -->
 ### I am a researcher in the field of Computational Intelligence, while also being a web developer and a Data Scientist.
