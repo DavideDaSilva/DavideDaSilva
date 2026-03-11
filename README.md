@@ -1,11 +1,11 @@
 ## Hello😊! I am Davide da Silva  🖐🏼
 
 <!-- I am engaged in research within the Computational Intelligence field, while also being a web developer and having a Data Scientist. -->
-### I am a researcher in the field of Computational Intelligence, while also being a web developer and a Data Scientist.
+### I am a researcher in the field of Dependable Computing at the Centre for Informatics and Systems of the University of Coimbra (CISUC), in Coimbra, Portugal.
 
 - 🌱 I'm currently coding in Python, JavaScript, TypeScript, and Node.js.
 
-- 💬 Ask me about Foundation Models, Generative Models, Machine Learning...
+- 💬 Ask me about LLMs, Foundation Models, Generative Models, Machine Learning...
 - ❤ Passionate about Dependable Computing, Neuro-Symbolic Reasoning, Machine Learning, and Computer Vision
 <br />
 
